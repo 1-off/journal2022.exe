@@ -4,10 +4,11 @@
 This is just another personal journal about learning to hack. 
 
 # Logs:
+- 26-08-2022 create HTB-Debugging Interface "walkthrough"
 - 25-08-2022 create google-dork repository "the idea is to create a flask tool to use various dork commands"
 - 25-08-2022 update swisscyberinstitute-pentesting-bootcamp-notes "third day of the course updates"
 - 24-08-2022 update web-300-notes "note 7, NodeJS Arbitrary JavaScript Injection Vulnerability read chapter"
-- 24-08-2022 create  HTB-BabyEncryption "small challenge on HTB, added my solution"
+- 24-08-2022 create HTB-BabyEncryption "walkthrough"
 
 # Queue projects:
 - code vulnerability scanner in python
