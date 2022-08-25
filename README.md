@@ -24,3 +24,4 @@ This is just another personal journal about learning to hack.
 - code github multiple account search and management
 - code github scraper to search branches
 - learn about rowhammer
+- learn about https://ibotpeaches.github.io/Apktool/
