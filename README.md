@@ -22,3 +22,4 @@ This is just another personal journal about learning to hack.
 - tutorial simple docker, how to deploy webservices in few min
 - code github multiple account search and management
 - code github scraper to search branches
+- learn about rowhammer
