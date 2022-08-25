@@ -20,3 +20,5 @@ This is just another personal journal about learning to hack.
 - code google dork webpage
 - tutorial how to create a firefox addon
 - tutorial simple docker, how to deploy webservices in few min
+- code github multiple account search and management
+- code github scraper to search branches
