@@ -19,3 +19,4 @@ This is just another personal journal about learning to hack.
 - tutorial Create a ML bot to play videogame
 - code google dork webpage
 - tutorial how to create a firefox addon
+- tutorial simple docker, how to deploy webservices in few min
