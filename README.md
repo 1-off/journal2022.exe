@@ -4,6 +4,7 @@
 This is just another personal journal about learning to hack. 
 
 # Logs:
+- 26-08-2022 create HTB-bug-bounty-hunter-course/walkthrough_JavaScript_Deobfuscation.md 
 - 26-08-2022 create HTB-Debugging Interface "walkthrough"
 - 25-08-2022 create google-dork repository "the idea is to create a flask tool to use various dork commands"
 - 25-08-2022 update swisscyberinstitute-pentesting-bootcamp-notes "third day of the course updates"
@@ -11,7 +12,7 @@ This is just another personal journal about learning to hack.
 - 24-08-2022 create HTB-BabyEncryption "walkthrough"
 
 # Queue projects:
-- code vulnerability scanner in python
+- code a vulnerability scanner in python
 - tutorial scrap website with selenium
 - tutorial beautifulsoup scraping houses
 - tutorial scrap bitcoin price and sentimental analysis
