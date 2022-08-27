@@ -19,24 +19,24 @@
 
 
 # Command Injection: 
-https://cobalt.io/blog/a-pentesters-guide-to-command-injection
+- https://cobalt.io/blog/a-pentesters-guide-to-command-injection
 
 
 # http-request-smuggling
-https://medium.com/cyberverse/earn-bounty-with-http-request-smuggling-attack-c68b4f2db363
-https://securityzines.com/flyers/hrs.html
-https://portswigger.net/web-security/request-smuggling/exploiting
-https://cobalt.io/blog/a-pentesters-guide-to-http-request-smuggling
+- https://medium.com/cyberverse/earn-bounty-with-http-request-smuggling-attack-c68b4f2db363
+- https://securityzines.com/flyers/hrs.html
+- https://portswigger.net/web-security/request-smuggling/exploiting
+- https://cobalt.io/blog/a-pentesters-guide-to-http-request-smuggling
 
 
 # Obfuscation
-https://rot13.com/
-https://beautifytools.com/javascript-obfuscator.php#
-https://www.toptal.com/developers/javascript-minifier
-https://jsconsole.com/
-https://obfuscator.io/
-http://www.jsfuck.com/
-https://utf-8.jp/public/jjencode.html
-https://utf-8.jp/public/aaencode.html
-https://www.boxentriq.com/code-breaking/quantum-computing
-http://www.jsnice.org/
+- https://rot13.com/
+- https://beautifytools.com/javascript-obfuscator.php#
+- https://www.toptal.com/developers/javascript-minifier
+- https://jsconsole.com/
+- https://obfuscator.io/
+- http://www.jsfuck.com/
+- https://utf-8.jp/public/jjencode.html
+- https://utf-8.jp/public/aaencode.html
+- https://www.boxentriq.com/code-breaking/quantum-computing
+- http://www.jsnice.org/
