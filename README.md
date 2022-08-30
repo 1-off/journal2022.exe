@@ -4,6 +4,7 @@
 This is just another personal journal about learning to hack. 
 
 # Logs:
+- 30-08-2022 create idor vuln notes
 - 26-08-2022 create HTB-bug-bounty-hunter-course/walkthrough_JavaScript_Deobfuscation.md 
 - 26-08-2022 create HTB-Debugging Interface "walkthrough"
 - 25-08-2022 create google-dork repository "the idea is to create a flask tool to use various dork commands"
